@@ -1,2 +1,2 @@
 # testowe
-Repozytorium testowe edit1
+Repozytorium testowe
